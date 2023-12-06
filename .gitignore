@@ -162,4 +162,4 @@ cython_debug/
 # Mac
 .idea/
 .DS_Store
-/pytorch_practice/runs/
+pytorch_practice/05_visualization_and_hook/runs
